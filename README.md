@@ -1,25 +1,24 @@
-Cracked version of Vape V4/Lite, no backdoor
-
-
+## <p align="center">VapeV4/Lite破解版Cracked无后门</p>
+[我的B站账号](https://space.bilibili.com/3493112309614889)
 # VapeClient
-Minecraft-ClassicGhostClient: Lite
-Minecraft-GhostClient: V4 VAPE Official Website
-
+- Minecraft-ClassicGhostClient：Lite
+- Minecraft-GhostClient：V4
+[VAPE官网](https://[www.vape.gg)
 # Getting Hacking in Minecraft
-Extract to a folder
-Right-click and run fix.bat in Administrator mode
-When the message "vape v4/lite crack fix aka vape server" appears, navigate to the V4 or Lite folder depending on the version you want to install.
-Press and hold V4/Lite below and slide it over Kangaroo Patcher.exe above (use Kangaroo Patcher.exe to open Vape_V4/Vape_Lite).
+1. 解压到一个文件夹
+2. 右键管理员运行fix.bat
+3. 等出现 vape v4/lite crack fix aka vape server 的字样时 根据你要开的版本再进V4或者Lite文件夹
+4. 按住下面的  V4/Lite  滑动到上面的  Kangaroo Patcher.exe  上（使用 Kangaroo Patcher.exe 打开 Vape_V4 / Vape_Lite）
 
-# Pay Attention!!!
-First, open the game and enter a single-player save or server.
-This VAPE cannot be injected into Huayuting. To use it in Huayuting, please start the game, close the white client, and then inject it into your own client.
-Before use, please change the "Country or Region" to the UK and the region format to "English (UK)".
-This cheat is only for single-player games. It does not support entering a multiplayer server to disrupt the game environment! !!!
+# Pay Attention！！！
+- 要先打开游戏进入单人存档或者服务器
+- 此VAPE不能注入花雨庭要在花雨庭使用请开端后关闭白端再注入自己的客户端
+- 使用前请将“国家或地区”改为英国；区域格式改为“英文(英国)”
 
-We are not responsible if you get banned for using this in multiplayer games.
 
-Tips: This is hilarious! Just ban me if I want to. What does it have to do with me, right, doge?
+## <p align="center">请在单人游戏中使用该作弊软件，不支持进入多人服务器中破坏游戏环境！！！</p>
+## <p align="center">若在多人游戏中使用被封禁，概不负责</p>
 
-Opening it means opening it slightly, opening it slightly means not opening it, and not opening it means not opening it!!!
-China's top 1.4 billion PVP players, FireHY
+Tips:笑死我了，封就封呗，和我有啥关系对吧doge
+# 打开等于小开，小开等于没开，没开就是没开!!!
+[中国前14亿PVP玩家FireHY](https://www.bilibili.com/video/BV1kx4y1d7pS/?spm_id_from=333.337.search-card.all.click)
