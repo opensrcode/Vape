@@ -1,24 +1,23 @@
-## <p align="center">VapeV4/Lite破解版Cracked无后门</p>
-[我的B站账号](https://space.bilibili.com/3493112309614889)
+## <p align="center">Cracked Version of Vape V4/Lite (No Backdoor)
+[My Bilibili Account](https://space.bilibili.com/3493112309614889)
 # VapeClient
-- Minecraft-ClassicGhostClient：Lite
-- Minecraft-GhostClient：V4
-[VAPE官网](https://[www.vape.gg)
+- Minecraft-ClassicGhostClient: Lite
+- Minecraft-GhostClient: V4
+[VAPE Official Website](https://www.vape.gg)
 # Getting Hacking in Minecraft
-1. 解压到一个文件夹
-2. 右键管理员运行fix.bat
-3. 等出现 vape v4/lite crack fix aka vape server 的字样时 根据你要开的版本再进V4或者Lite文件夹
-4. 按住下面的  V4/Lite  滑动到上面的  Kangaroo Patcher.exe  上（使用 Kangaroo Patcher.exe 打开 Vape_V4 / Vape_Lite）
+1. Extract the files to a folder.
+2. Right-click and run fix.bat as an administrator.
+3. When the message "vape v4/lite crack fix aka vape server" appears, navigate to the V4 or Lite folder depending on the version you want to install.
+4. Press and hold V4/Lite below and slide it over Kangaroo Patcher.exe above (use Kangaroo Patcher.exe to open Vape V4/Vape Lite).
 
-# Pay Attention！！！
-- 要先打开游戏进入单人存档或者服务器
-- 此VAPE不能注入花雨庭要在花雨庭使用请开端后关闭白端再注入自己的客户端
-- 使用前请将“国家或地区”改为英国；区域格式改为“英文(英国)”
+# Pay Attention! ! !
+- First, open the game and enter a single-player save or server.
+- This VAPE cannot be injected into Huayuting. To use it in Huayuting, please start the game, close the white client, and then inject it in your own client.
+- Before use, please change the "Country or Region" to the UK and the region format to "English (UK)".
 
+## <p align="center">This cheat is only for single-player games. It is not supported to use it in multiplayer servers to disrupt the game environment!!!</p>
+## <p align="center">We are not responsible if you get banned for using it in multiplayer games.</p>
 
-## <p align="center">请在单人游戏中使用该作弊软件，不支持进入多人服务器中破坏游戏环境！！！</p>
-## <p align="center">若在多人游戏中使用被封禁，概不负责</p>
-
-Tips:笑死我了，封就封呗，和我有啥关系对吧doge
-# 打开等于小开，小开等于没开，没开就是没开!!!
-[中国前14亿PVP玩家FireHY](https://www.bilibili.com/video/BV1kx4y1d7pS/?spm_id_from=333.337.search-card.all.click)
+Tips: I'm dying of laughter. If I get banned, I get banned. What does it have to do with me, right, doge?
+# Open means slightly opened, slightly opened means not opened, and not opened means not opened!!!
+[China's Top 1.4 Billion PVP Players: FireHY](https://www.bilibili.com/video/BV1kx4y1d7pS/?spm_id_from=333.337.search-card.all.click)
